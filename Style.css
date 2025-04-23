@@ -1,7 +1,7 @@
 .calculator {
-    margin-top:80px;
+    
 
-    background-color: novajowhite;
+    background-colour: novajowhite;
     width: 230px;
     border-radius: 5px;
     padding: 15px;
@@ -28,6 +28,6 @@
 
 .main {
     background-color:rgb(73, 67, 57)8, 79);
-    margin-top: 30px;
+    margin-top: 100px;
     margin-left: 40%;
 }
